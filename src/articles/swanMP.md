@@ -93,7 +93,9 @@
 1. [李彦宏：互联网人口红利结束了，未来发展的动力就是 AI][1]
 2. [千亿流量、开源、90%广告分成，是百度智能小程序突围的关键吗？][2]
 3. [第二届阿拉丁年会-流量之变 工具、内容、流量][3]
+4. [智能小程序登录流程优化][4]
 
 [1]: https://36kr.com/p/5106075.html
 [2]: https://36kr.com/p/5167343.html
 [3]: https://vzan.com/live/tvchat-978861
+[4]: https://smartprogram.baidu.com/developer/article.html?id=MzE=APPA65562B37144621013E2647ED2F5716B
